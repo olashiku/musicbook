@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicBook</string>
+    <string name="action_play_pause">com.olashiku.musicbook.ACTION.PLAY_PAUSE</string>
+    <string name="action_play_previous">com.olashiku.musicbook.ACTION.PLAY_PREVIOUS</string>
+    <string name="action_play_next">com.olashiku.musicbook.ACTION.PLAY_NEXT</string>
+    <string name="action_channel_id">com.olashiku.musicbook</string>
+    <string name="channel_name">my music channel</string>
+    <string name="channel_description">my fantastic music channel</string>
+
+</resources>
